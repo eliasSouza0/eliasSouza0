@@ -13,7 +13,7 @@ Eu sou desenvolvedor front-end, estudante de Sistemas de Informação pela Unopa
 
 🧠 Estou aprendendo CSS HTML e javaScript pela DIO.me
 
-👯‍♀️ Procuro colaborar em projetos com atuação em Front
+👯‍♀️ Procuro colaborar em projetos com atuação em Front-end
 
 📫 Como entrar em contato comigo email: souzaelias0135@gmail.com
 ou whatsapp: 69 9984-3730
