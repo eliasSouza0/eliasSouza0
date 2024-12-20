@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Elias! 👋
 
-<!--
-**eliasSouza0/eliasSouza0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Um pouco sobre mim
+Eu sou desenvolvedor front-end, estudante de Sistemas de Informação pela Unopar, gosto de jogos, música e sair ao ar livre...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-souza-8144a0333/)
+
+
+## Outras seções comuns em perfis do GitHub
+
+🧠 Estou aprendendo CSS HTML e javaScript pela DIO.me
+
+👯‍♀️ Procuro colaborar em projetos com atuação em Front
+
+📫 Como entrar em contato comigo email: souzaelias0135@gmail.com
+ou whatsapp: 69 9984-3730
+
+
+
+
+## 🛠 Habilidades
+ HTML, CSS... 
