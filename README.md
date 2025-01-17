@@ -2,7 +2,7 @@
 
 
 ## 🚀 Um pouco sobre mim
-Eu sou desenvolvedor back-end, estudante de Sistemas de Informação pela Unopar, gosto de jogos, música e sair ao ar livre...
+Eu sou desenvolvedor Front-end, estudante de Sistemas de Informação pela Unopar, gosto de jogos, música e sair ao ar livre...
 
 
 ## 🔗 Links
